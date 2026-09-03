@@ -42,5 +42,5 @@ Repositório destinado ao armazenamento, desenvolvimento e redação de todas as
 
 🔗 **Links da Atividade:**
 - [Repositório GitHub](https://github.com/pietrosantos15/ProjetoMultiFrameworkds)
-- [Documento/Relatório/Formulário no repositório acima](#)
+
 
