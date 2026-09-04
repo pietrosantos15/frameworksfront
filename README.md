@@ -1,6 +1,6 @@
 # Atividades Da Aula de Front-end
 
-Repositório destinado ao armazenamento, desenvolvimento e redação de todas as atividades e projetos desenvolvidos durante as aulas da disciplina Framework Front-End (7° Semestre).
+Repositório destinado ao armazenamento, desenvolvimento e redação de todas as atividades e projetos desenvolvidos durante as aulas da disciplina Framework Front-End
 
 ## 👤 Autor
 
@@ -42,5 +42,41 @@ Repositório destinado ao armazenamento, desenvolvimento e redação de todas as
 
 🔗 **Links da Atividade:**
 - [Repositório GitHub](https://github.com/pietrosantos15/ProjetoMultiFrameworkds)
+
+
+#### Atividade 04 — Pesquisa de APIs
+
+**Descrição:** Pesquisar 10 projetos no GitHub que utilizam algum tipo de API em suas aplicações. Clonar e analisar os projetos identificando o framework utilizado, as APIs consumidas e a funcionalidade do projeto.
+
+
+🔗 **Links da Atividade:**
+- [Repositório GitHub](https://github.com/pietrosantos15/BuscandoAPIs)
+
+---
+
+#### Atividade 05 — Criando API
+
+**Descrição:** Criar API usando Express, definindo rota de consulta de data e hora com deploy no render
+
+
+🔗 **Links da Atividade:**
+- [Repositório GitHub](https://github.com/pietrosantos15/ApiExpress)
+- [Deploy Render](https://apiexpress-k65o.onrender.com)
+- [Deploy Vercel](https://frontapiexpress.vercel.app/)
+
+---
+
+#### Atividade 06 — API REST com Express
+
+**Descrição:** Criar API usando Express, definindo rota de consulta de data e hora com deploy no render
+
+
+🔗 **Links da Atividade:**
+- [Repositório GitHub](https://github.com/pietrosantos15/ApiExpress)
+- [Repositório GitHub](https://github.com/pietrosantos15/projetos-notasfront)
+- [Deploy Render](https://projeto-notas-s7ys.onrender.com)
+- [Deploy Vercel](https://projetos-notasfront-ochre.vercel.app/)
+
+---
 
 
