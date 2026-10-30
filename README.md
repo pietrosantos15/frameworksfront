@@ -107,5 +107,16 @@ Repositório destinado ao armazenamento, desenvolvimento e redação de todas as
 - [Repositório GitHub](https://github.com/pietrosantos15/projeto-tailwind)
 - [Repositório GitHub](https://github.com/pietrosantos15/projetocss)
 
+---
+
+#### Atividade 10 — Projeto React
+
+**Descrição:** Desenvolver uma aplicação React usando os conceitos estudados
+
+
+🔗 **Links da Atividade:**
+- [Repositório GitHub](https://github.com/pietrosantos15/aula8front)
+
+
 
 
