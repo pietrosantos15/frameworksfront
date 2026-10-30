@@ -85,7 +85,7 @@ Repositório destinado ao armazenamento, desenvolvimento e redação de todas as
 🔗 **Links da Atividade:**
 - [Repositório GitHub](https://github.com/pietrosantos15/kanbanpi/tree/main)
 
-  ---
+---
 
 #### Atividade 08 — Projeto Hackaton
 
@@ -95,6 +95,17 @@ Repositório destinado ao armazenamento, desenvolvimento e redação de todas as
 🔗 **Links da Atividade:**
 - [Repositório GitHub](https://github.com/Nicolas1xx/educacaodequalidade)
 - [Deploy Render](https://educacaodequalidade.vercel.app/)
+
+---
+
+#### Atividade 09 — Projeto CSS
+
+**Descrição:** Fazer um com Vanilla e outro com Framework
+
+
+🔗 **Links da Atividade:**
+- [Repositório GitHub](https://github.com/pietrosantos15/projeto-tailwind)
+- [Repositório GitHub](https://github.com/pietrosantos15/projetocss)
 
 
 
