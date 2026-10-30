@@ -85,4 +85,16 @@ Repositório destinado ao armazenamento, desenvolvimento e redação de todas as
 🔗 **Links da Atividade:**
 - [Repositório GitHub](https://github.com/pietrosantos15/kanbanpi/tree/main)
 
+  ---
+
+#### Atividade 08 — Projeto Hackaton
+
+**Descrição:** Projeto avaliativo proposto pelo professor Deivison
+
+
+🔗 **Links da Atividade:**
+- [Repositório GitHub](https://github.com/Nicolas1xx/educacaodequalidade)
+- [Deploy Render](https://educacaodequalidade.vercel.app/)
+
+
 
