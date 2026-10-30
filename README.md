@@ -117,6 +117,18 @@ Repositório destinado ao armazenamento, desenvolvimento e redação de todas as
 🔗 **Links da Atividade:**
 - [Repositório GitHub](https://github.com/pietrosantos15/aula8front)
 
+---
+
+#### Atividade 11 — Projeto API + React
+
+**Descrição:** Desenvolver uma aplicação React usando os conceitos estudados (useState, useEffect, API, React Router)
+
+
+🔗 **Links da Atividade:**
+- [Repositório GitHub](https://github.com/pietrosantos15/aula9front)
+
+
+
 
 
 
