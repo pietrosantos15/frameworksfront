@@ -78,5 +78,11 @@ Repositório destinado ao armazenamento, desenvolvimento e redação de todas as
 - [Deploy Vercel](https://projetos-notasfront-ochre.vercel.app/)
 
 ---
+#### Atividade 07 — Organanização do Kanban da API
+
+**Descrição:** Este documento descreve o processo de planejamento e gestão de tarefas para o desenvolvimento do sistema de Catraca com Reconhecimento Facial, aplicando os conceitos ágeis vistos em aula.
+
+🔗 **Links da Atividade:**
+- [Repositório GitHub](https://github.com/pietrosantos15/kanbanpi/tree/main)
 
 
